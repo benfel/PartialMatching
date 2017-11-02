@@ -6,7 +6,7 @@ library(shiny)
 
 
 #Set the working Directory
-Directory <- "~/Unicorn/RWorkingFiles/LineNorm"
+Directory <- "~/Unicorn/RWorkingFiles/PartialMatching"
 setwd(Directory)
 
 #Extracting Database List
